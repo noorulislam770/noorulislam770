@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 I'm a full stack developer based in Chitral Pakistan currently in Islamabad, I have a great passion for woking on various applications from the base up, from design to entire development and deployment process. Although i like working on full stack web development, mostly in Djano and Laravel and Javascript frameworks in the front like React, Angular and Vue. I am also expanding my knowledge of mobile app development in Flutter for Android and iOS. I like reading books and blogs about Topics like System design AI/ML and many more related to the field from O'reilly and Tech content on Youtube always tops in my Youtube Recommendations.
 Apart from coding I like Cycling and sports both indoor and outdoor mostly football and volleyball.
-Here is my Portfolio : http://noors-test-bucket-aws.s3-website.ap-south-1.amazonaws.com/
+Here is my Portfolio : https://my-portfolio-nine-jade-95.vercel.app/
 
 ### 🧰 Languages and Tools
 
